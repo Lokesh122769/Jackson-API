@@ -1,0 +1,12 @@
+{
+	"id":99,
+	"name":"gambhir",
+	
+	"domain":{
+		"role":"Developer",
+		"language":"Java"
+	},
+	
+	
+	"salary":250000
+}
